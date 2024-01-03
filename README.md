@@ -1,29 +1,40 @@
-## Olá! Eu sou a Stephany Brazeiro 👋
-<p>Sou uma entusiasta do desenvolvimento web em constante busca por conhecimento e aprimoramento. Gosto de criar interfaces visuais atraentes e funcionais, e atualmente estou focada em expandir minhas habilidades no front-end, estudando por meio de livros, cursos online e projetos práticos.</p>
+## Olá, me chamo Stephany! 👋
+🌈 Sou estudante de <strong>Ciência da Computação</strong> no último semestre em constante aprendizado para melhorar minhas habilidades e adquirir novos conhecimentos na área de Front End.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanybrazeir0&hide_progress=true)
-
-### Habilidades
-<p>Atualmente, possuo conhecimentos em HTML, CSS, CSS Flexbox, CSS Grid, JavaScript e Figma. Tenho experiência em criar layouts responsivos e interativos, além de prototipagem de interfaces utilizando o Figma.</p>
-
+### 💻 Tecnologias e Ferramentas:
+                  
 <div style="display: inline-block">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img align="center" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+  <img align="center" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+  <img align="center" alt="JavaScript"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+  <img align="center" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60"/>
+  <img align="center" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+  <img align="center" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
 </div>
+</br>
 
-### Objetivos 
-<p>Meus objetivos de aprendizado para o futuro incluem dominar as tecnologias e frameworks mais populares do mercado.</p>
+📖​ Atualmente terminando um curso de HTML, CSS e JavaScript. Você pode acompanhar meu andamento nos estudos atráves dos meus repositórios.
 
+⭐ Gosto da área do Design e tenho conhecimento em prototipar interfaces no Figma. Em meus projetos, realizo a criação primeiramente no Figma antes de codar. 
+
+🧉​ Sou dev movida a chimarrão.
+
+### 💡​ Objetivos:
 <div style="display: inline-block">
-     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img align="center" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
+  <img align="center" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
+  <img align="center" alt="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60" height="60"/>
+  <img align="center" alt="Nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="60" height="60"/>
+  <img align="center" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60"/>
+  <img align="center" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="60" height="60"/>
+  <img align="center" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
 </div>
+</br>
 
-### Contato
+🌊 Ter conhecimentos sólidos sobre a base(HTML, CSS e JavaScript) do Front End é extremamente importante. Após ter bastante confiança na base, irei me aprofundar nas principais tecnologias e frameworks do mercado. Como: React, Typescript, Redux, Next.js, Tailwind CSS, Cypress/Jest e NodeJS.
+
+
+### 📞 Contato:
 <p>Se você estiver interessado em conversar comigo sobre oportunidades ou projetos colaborativos, sinta-se à vontade para entrar em contato.</p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](stephanybrazeiro@gmail.com)
