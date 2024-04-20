@@ -1,6 +1,10 @@
 ## Olá, me chamo Stephany! 👋
 🌈 Sou estudante de **Ciência da Computação** no último semestre em constante aprendizado para melhorar minhas habilidades e adquirir novos conhecimentos na área de Front End.
 
+🕹 Estagiária de desenvolvimento web na Aceleradora Ágil que é um programa onde temos a oportunidade de desenvolver um software. No momento estou aprendendo **TypeScript** na Aceleradora.
+
+🧉​ Sou dev movida a chimarrão.
+
 ### 💻 Tecnologias e Ferramentas:
                   
 <div style="display: inline-block">
@@ -16,8 +20,6 @@
 📖​ Atualmente aprofundando meus conhecimentos em **JavaScript**. Você pode acompanhar meu andamento nos estudos atráves dos meus [repositórios](https://github.com/stephanybrazeir0?tab=repositories).
 
 ⭐ Gosto da área do Design e tenho conhecimento em prototipar interfaces no Figma. Em meus projetos, realizo a criação primeiramente no Figma antes de codar. 
-
-🧉​ Sou dev movida a chimarrão.
 
 ### 💡​ Objetivos:
 <div style="display: inline-block">
