@@ -1,8 +1,8 @@
 # Olá, me chamo Stephany! 👋
 
-🕹 Sou estagiária de desenvolvimento de software na Aceleradora Ágil, onde estamos desenvolvendo uma plataforma web educacional, o E-Acelera, com o objetivo de facilitar a interação entre alunas e mentoras. Está sendo utilizado  Next.js, React.js, TypeScript, Material UI, Bruno e Netlify. Também utilizamos métodologias ágeis como Scrum, Kanban e práticas de pair programming. 
+🕹 Sou estagiária de desenvolvimento de software na Aceleradora Ágil, onde estamos desenvolvendo uma plataforma web educacional, o [E-Acelera](https://staging--e-acelera-homologacao.netlify.app/Nivelamento), com o objetivo de centralizar conteúdos para os estudos das alunas. Está sendo utilizado Next.js, React.js, TypeScript, Material UI e Netlify. Também utilizamos métodologias ágeis como Scrum, Kanban e práticas de pair programming. 
 
-🌈 Formada em **Ciência da Computação** e iniciando os estudos em **Desenvolvimento de Sistemas** com o objetivo de aprofundar meus conhecimentos e habilidades.
+🌈 Formada em **Ciência da Computação** e iniciando um técnico os estudos em **Desenvolvimento de Sistemas**.
 
 🧉​ Sou dev movida a chimarrão.
 
