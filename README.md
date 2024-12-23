@@ -1,8 +1,8 @@
 # Olá, me chamo Stephany! 👋
 
-🕹 Sou estagiária de desenvolvimento de software na Aceleradora Ágil, onde estamos desenvolvendo uma plataforma web educacional, o [E-Acelera](https://staging--e-acelera-homologacao.netlify.app/), com o objetivo de centralizar conteúdos para os estudos das alunas. Está sendo utilizado Next.js, React.js, TypeScript, Material UI e Netlify. Também utilizamos métodologias ágeis como Scrum, Kanban e práticas de pair programming. 
+🕹 Sou estagiária de desenvolvimento de software na Aceleradora Ágil, onde estamos desenvolvendo uma plataforma web educacional, o [E-Acelera](https://aceleradora-agil.com.br/), com o objetivo de centralizar conteúdos para os estudos das alunas. Está sendo utilizado para o Next.js, React.js, TypeScript, Material UI, Jest, Prisma ORM, Postgres e Postman. Também utilizamos métodologias ágeis como Scrum, Kanban e práticas de pair programming. 
 
-🌈 Formada em **Ciência da Computação** e iniciando um técnico em **Desenvolvimento de Sistemas**.
+🌈 Formada em **Ciência da Computação** e cursando um técnico em **Desenvolvimento de Sistemas**.
 
 🧉​ Sou dev movida a chimarrão.
 
@@ -13,6 +13,9 @@
   <img align="center" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
   <img align="center" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/>
   <img align="center" alt="MaterialUI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="60" height="60"/>
+    <img align="center" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="60" height="60"/>
+  <img align="center" alt="Prisma"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" width="60" height="60"/>
+  <img align="center" alt="Postgres"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
   <img align="center" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>      
   <img align="center" alt="JavaScript"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
   <img align="center" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
@@ -31,6 +34,9 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](stephanybrazeiro@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephanybrazeiro/)
+
+
+
 
           
           
